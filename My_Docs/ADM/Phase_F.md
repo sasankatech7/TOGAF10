@@ -136,6 +136,141 @@ Phase H → Architecture Change Management
 
 For TOGAF certification exams, remember that **Phase E identifies solution options and work packages**, while **Phase F converts those options into a prioritized, executable migration roadmap and implementation plan**. ([circle.visual-paradigm.com][3])
 
+---
+
+Here's a **TOGAF ADM Phase F (Migration Planning) Mind Map** optimized for exam preparation and quick recall.
+
+```text
+                    PHASE F
+              MIGRATION PLANNING
+                       │
+ ┌─────────────────────┼─────────────────────┐
+ │                     │                     │
+Objective          Inputs               Outputs
+ │                     │                     │
+Move from         Phase E            Implementation &
+Roadmap to        Deliverables       Migration Plan
+Execution         Work Packages      Architecture Roadmap
+                  Transition Arch.   Updated Requirements
+                                    Governance Inputs
+                       │
+                       ▼
+          1. Confirm Management Frameworks
+                       │
+       ┌───────────────┼───────────────┐
+       │               │               │
+ Portfolio Mgmt   Project Mgmt   Operations Mgmt
+ Business Planning Governance
+
+                       ▼
+          2. Assign Business Value
+                       │
+       ┌───────────────┼───────────────┐
+       │               │               │
+      ROI         Cost Saving     Risk Reduction
+   Revenue ↑      Compliance      Customer Value
+
+                       ▼
+       3. Estimate Resources & Timing
+                       │
+       ┌───────────────┼───────────────┐
+       │               │               │
+     Budget         People          Technology
+                  Schedule         Delivery Model
+
+                       ▼
+         4. Prioritize Projects
+                       │
+       ┌───────────────┼───────────────┐
+       │               │               │
+   Benefits         Risks         Dependencies
+   Feasibility      Cost
+
+                       ▼
+      5. Confirm Transition Architectures
+                       │
+      Current State
+             ↓
+      Transition 1
+             ↓
+      Transition 2
+             ↓
+       Target State
+
+                       ▼
+      6. Generate Architecture Roadmap
+                       │
+       ┌───────────────┼───────────────┐
+       │               │               │
+    Work Pkgs      Milestones      Releases
+   Dependencies      Timeline
+
+                       ▼
+       7. Complete Cycle & Prepare G
+                       │
+       ┌───────────────┼───────────────┐
+       │               │               │
+ Lessons Learned  Repository Update  Phase G
+                                    Governance
+```
+
+## Ultra-Short Memory Trick
+
+Think:
+
+### **"Value → Resource → Priority → Transition → Roadmap"**
+
+```text
+Confirm
+   ↓
+Value
+   ↓
+Resources
+   ↓
+Priority
+   ↓
+Transition
+   ↓
+Roadmap
+   ↓
+Governance
+```
+
+### Exam Keyword Chain
+
+**CAVEPRG**
+
+Pronounce it as:
+
+> **"CAVE PRG"**
+
+* **C** = Confirm Frameworks
+* **A** = Assign Value
+* **V** = Value Assessment
+* **E** = Estimate Resources
+* **P** = Prioritize Projects
+* **R** = Roadmap Generation
+* **G** = Governance Preparation
+
+Or the more accurate sequence:
+
+**CAEPCGC**
+
+* Confirm
+* Assign Value
+* Estimate
+* Prioritize
+* Confirm Transition Architectures
+* Generate Roadmap
+* Complete Cycle
+
+### One-Line Exam Summary
+
+> **Phase E decides WHAT solutions to implement; Phase F decides WHEN, IN WHAT ORDER, and WITH WHAT RESOURCES they will be implemented.**
+
+That single sentence helps distinguish Phase F from Phase E in many TOGAF 10 exam questions.
+
+
 [1]: https://coe.qualiware.com/resources/togaf/9-1/part2-adm/phase-f-migration-planning/?utm_source=chatgpt.com "Phase F: Migration Planning | QualiWare Center of Excellence"
 [2]: https://togaf.visual-paradigm.com/2023/10/12/a-comprehensive-guide-for-togaf-adm-phase-f-migration-planning-part-7/?utm_source=chatgpt.com "A Comprehensive Guide for TOGAF ADM Phase F: . Migration Planning (Part 7) - Visual Paradigm TOGAF"
 [3]: https://circle.visual-paradigm.com/docs/togaf-adm-guide-through/phase-f-migration-planning/?utm_source=chatgpt.com "9. Phase F - Migration Planning - Visual Paradigm Community Circle"
