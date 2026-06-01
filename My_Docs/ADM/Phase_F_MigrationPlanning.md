@@ -2,6 +2,8 @@ You can save the following as **`TOGAF_ADM_Phase_F_Migration_Planning.md`**.
 
 # TOGAF ADM Phase F – Migration Planning
 
+In TOGAF ADM, **Phase F: Migration Planning** focuses on creating a practical roadmap to move from the **Baseline Architecture** to the **Target Architecture**.
+
 ## Overview
 
 Phase F (Migration Planning) converts the implementation opportunities identified in Phase E into a detailed and prioritized Implementation and Migration Plan.
